@@ -9,3 +9,7 @@ I have a GC9A01 circle LCD display. I have many ideas for what to run on a circu
 - 1 Button game
 - rotary encoder
 - watch?
+- tetris
+- submarine
+- stopwatch?
+- deauther watch
